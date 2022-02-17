@@ -8,8 +8,8 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Stipe Vrkić`,
-    siteTitleAlt: `Stipe Vrkić Portfolio`,
-    siteHeadline: `Stipe Vrkiž`,
+    siteTitleAlt: `Stipe Vrkić`,
+    siteHeadline: `Stipe Vrkić`,
     siteUrl: `https://stipe.vrkic.com`,
     siteDescription: `Stipe Vrkic portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
